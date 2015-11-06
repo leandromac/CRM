@@ -1,26 +1,31 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+# [CRM] - [Customer Relationship Management]
 
-[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[It is an open source system for CRM.]
 
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-* Install via bower using `bower install startbootstrap-sb-admin-2`
+* Download the latest version clicking the "Download ZIP" button on the righ
+* Unzip the file
+* Enjoy the template!
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/leandromac/CRM/issues) here on GitHub.
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Template based on Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Custom
+
+This template was custom by [Leandro Macedo](http://www.leandromacedo.com)
+[Facebook/oleandromacedo](https://www.facebook.com/oLeandroMacedo/)
+[Twitter/oleandromacedo](https://twitter.com/oleandromacedo)
+[LinkedId/in/oleandromacedo](https://br.linkedin.com/in/oleandromacedo)
+[Instagram/oleandromacedo](https://instagram.com/oleandromacedo)
 
 ## Copyright and License
 
