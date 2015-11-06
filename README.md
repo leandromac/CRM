@@ -1,6 +1,6 @@
-# [CRM] - [Customer Relationship Management]
+# CRM - Customer Relationship Management
 
-[It is an open source system for CRM.]
+It is an open source system for CRM.
 
 ## Getting Started
 
@@ -22,10 +22,10 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Custom
 
 This template was custom by [Leandro Macedo](http://www.leandromacedo.com)
-[Facebook/oleandromacedo](https://www.facebook.com/oLeandroMacedo/)
-[Twitter/oleandromacedo](https://twitter.com/oleandromacedo)
-[LinkedId/in/oleandromacedo](https://br.linkedin.com/in/oleandromacedo)
-[Instagram/oleandromacedo](https://instagram.com/oleandromacedo)
+* [Facebook/oleandromacedo](https://www.facebook.com/oLeandroMacedo/)
+* [Twitter/oleandromacedo](https://twitter.com/oleandromacedo)
+* [LinkedId/in/oleandromacedo](https://br.linkedin.com/in/oleandromacedo)
+* [Instagram/oleandromacedo](https://instagram.com/oleandromacedo)
 
 ## Copyright and License
 
